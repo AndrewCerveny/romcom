@@ -3,7 +3,7 @@
 
 ### Abstract:
 [//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
-- We built a romantic novel cover generator. It has the abilities to generate a novel page from an existing set of sourced images as well as giving the user the ability to create their own novel with title and subtitles. They can also save these instances for later enjoyment. If they no longer want to reference their novels they can erase the cover by double clicking.
+- We built a romantic novel cover generator. It has the abilities to generate a novel page from an existing set of sourced images as well as giving the user the ability to create their own novel with title and subtitles. They can also save these instances for later enjoyment. If they no longer want to reference their novels they can erase the cover by double clicking. Visit site at : https://andrewcerveny.github.io/romcom/
 
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
@@ -13,7 +13,7 @@ They have to fork from James W github since he had the original repository, then
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
 The save function was the coolest feature that spanned many different abilities< photo showed seperately.
 https://freeimage.host/i/screen-shot-2022-09-03-45233-pm.6uJ4Ia
-https://andrewcerveny.github.io/romcom/
+
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
 James W & Andy C: Together we started 4-5 hours Wed, 4 hours thurs, friday 6 hours , saturday 7 hours. total 23-25hours. We are mod 1 week 2
